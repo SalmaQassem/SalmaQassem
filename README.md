@@ -1,27 +1,40 @@
 <div align="center">
     <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/Cover-photo.png?raw=true" width="550" height="250">
 </div>
-<h1 align="center">Hello! <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/wave.gif" width="30px">, I'm Salma</h1>
-<h3 align="center">Front-End Developer</h3>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/salmaqassem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salmaqassem" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/salma-qassem-871750176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salma-qassem-871750176/" height="30" width="40" /></a>
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-</p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=swift&line_height=32">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=swift">
+<div align="left">
+    <h1>Hi, I'm Salma <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/wave.gif" width="30px"></h1>
+    <p>I'm a passionate front-end developer based in Cairo, Egypt.</p>
 </div>
-
-
+<div align="left">
+    <h2>Social Media</h2>
+    <p>Find me on the following social media platforms:</p>
+    <div>
+        <a href="https://www.linkedin.com/in/salma-qassem-871750176/" target="blank">
+            <img align="center" src="https://github.com/SalmaQassem/SalmaQassem/blob/main/linkedin.png" height="60" width="60" />
+        </a>
+        <a href="https://codepen.io/salmaqassem" target="blank">
+            <img align="center" src="https://github.com/SalmaQassem/SalmaQassem/blob/main/codepen_Icon.png" alt="salmaqassem" height="55" width="55" />
+        </a>
+    </div>
+</div>
+<div align="left">
+    <h2>Languages and Tools</h2>
+    <div>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/html.png" alt="html5" width="50" height="50"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/css.png" alt="css3" width="50" height="50"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/javascript.png" alt="javascript" width="50" height="50"/>
+        </a> 
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/bootstrap.png" alt="bootstrap" width="50" height="50"/>
+        </a>
+    </div>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=swift&line_height=32">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=swift">
+</div>
