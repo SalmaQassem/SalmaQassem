@@ -35,6 +35,9 @@
     </div>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=swift&line_height=32">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=swift">
+    <h2 align="left">Github Stats</h2>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=swift&line_height=30" height="220">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=swift&line_height=30" height="220">
+    </div>
 </div>
