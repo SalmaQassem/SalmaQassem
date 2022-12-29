@@ -32,6 +32,9 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/bootstrap.png" alt="bootstrap" width="50" height="50"/>
         </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/git-icon.png" alt="bootstrap" width="50" height="50"/>
+        </a>
     </div>
 </div>
 <div align="center">
