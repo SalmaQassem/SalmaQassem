@@ -20,8 +20,8 @@
 </a>
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=vue-dark&line_height=32">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=SalmaQassem&hide=stars&show_icons=true&theme=swift&line_height=32">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaQassem&count_private=true&theme=swift">
 </div>
 
 
