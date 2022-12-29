@@ -1,1 +1,2 @@
-<img srs="https://github.com/SalmaQassem/SalmaQassem/blob/main/Software%20integration-bro.png" align="right" width="25%">
+  <h1>Hi I'm Salma</h1>
+  <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/Software%20integration-bro.png" height="25%">
