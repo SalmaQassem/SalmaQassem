@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/Cover-photo.png?raw=true" width="700" height="330">
+    <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/Cover-photo.png?raw=true" width="550" height="250">
 </div>
 <h1 align="center">Hello! <img src="https://github.com/SalmaQassem/SalmaQassem/blob/main/wave.gif" width="30px">, I'm Salma</h1>
 <h3 align="center">Front-End Developer</h3>
