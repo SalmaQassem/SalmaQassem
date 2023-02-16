@@ -9,7 +9,7 @@
     <h2>Social Media</h2>
     <p>Find me on the following social media platforms:</p>
     <div>
-        <a href="https://www.linkedin.com/in/salma-qassem-871750176/" target="blank">
+        <a href="https://www.linkedin.com/in/salmaqassem/" target="blank">
             <img align="center" src="https://github.com/SalmaQassem/SalmaQassem/blob/main/linkedin.png" height="60" width="60" />
         </a>
         <a href="https://codepen.io/salmaqassem" target="blank">
